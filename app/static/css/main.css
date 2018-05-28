@@ -83,10 +83,10 @@ h3 {
 }
 label
 {
-width: 4em;
+width: 6em;
 float: left;
-text-align: right;
-margin-right: 0.5em;
+text-align: center;
+margin-right: 1em;
 display: block
 }
 
@@ -96,8 +96,6 @@ margin-left: 4.5em;
 }
 input
 {
-color: #781351;
-background: #fee3ad;
 border: 1px solid #781351
 }
 
@@ -105,12 +103,7 @@ border: 1px solid #781351
 {
 color: #000;
 background: #ffa20f;
-border: 2px outset #d7b9c9
-}
-fieldset
-{
-border: 1px solid #781351;
-width: 20em
+border: 4px outset #d7b9c9
 }
 
 legend
